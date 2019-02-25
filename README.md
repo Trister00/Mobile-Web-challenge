@@ -16,9 +16,9 @@ Username and avatar of the owner.
 
 # Technilogy Used :
 I applied for the Web challenge,but after i thought why not do both Web and Mobile.
-So I Used Nativescript-Vue Framework(Build a Truly Native App Using Web Framework) to make the Mobile Challenge (List Github Repos)\n
-\n
-The choice of Technologies : 
+So I Used Nativescript-Vue Framework(Build a Truly Native App Using Web Framework) to make the Mobile Challenge (List Github Repos)
+
+# The Choice of Technologies: 
 I'm a fan of VueJS for it's simplicity ,so i looked for a Framework that can use this to make mobile app(similar to React Native)
 
 ## Usage
